@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! I'm Nafisa 👋
+I'm an aspiring Software Engineering student. 
 
-<!--
-**mehjabin16/mehjabin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+⚡ Quick fact ⚡
+-------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a prototyping website
+- 🌱 I’m currently learning Apache Spark and a bit of Figma
+- 😄 Pronouns: She/her
+- 💬 Ask me about: Percy Jackson and Korean thrillers. (IK weird!)
+
+
+
