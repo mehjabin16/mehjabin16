@@ -3,7 +3,7 @@ I'm an aspiring Software Engineering student, persuing my bachelor's degree from
 Find out more about me & feel free to connect with me here-
 
 [![Linkedin Badge](https://img.shields.io/badge/-nafisamehjabin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nafisa-mehjabin/)](https://www.linkedin.com/in/nafisa-mehjabin/)
-[![Gmail Badge](https://img.shields.io/badge/-nafisamehjabin@iut-dhaka.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nafisamehjabin@iut-dhaka.edu)](mailto:nafisamehjabin@iut-dhaka.edu)
+[![Gmail Badge](https://img.shields.io/badge/-nmehjabin16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nmehjabin16@gmail.com)](mailto:nmehjabin16@gmail.com)
 
 **Languages and Tools**  
 
