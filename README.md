@@ -21,13 +21,4 @@ Find out more about me & feel free to connect with me here-
 
 
 
-⚡ Quick facts about me ⚡
--------------------------------------------------------
-
-- 🔭 I’m currently working on a prototyping website
-- 🌱 I’m currently learning Apache Spark and a bit of Figma
-- 😄 Pronouns: She/her
-- 💬 Ask me about: Percy Jackson and Korean thrillers. (IK weird!)
-
-
 
